@@ -14,6 +14,3 @@ About Content
 include("footer.php");
 
 ?>
-    
-</body>
-</html>

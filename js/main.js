@@ -1,3 +1,4 @@
 (function() {
-    alert("hej");
+    
+    console.log("hej här istället");
 }) ();
